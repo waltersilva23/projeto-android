@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'idrod';
-    src: url(fontes/idroid.otf) format('opentype');
+    src: url(../fontes/idroid.otf) format('opentype');
     font-weight: normal;
 }
 
@@ -16,8 +16,8 @@
     --cor4: #1a5c37;
     --cor5: #063D1E;
     --font0: Arial, Verdana, Helvetica, sans-serif;
-    --font1: 'Bebas Neue', serif;
-    --font2: 'idrod', serif;
+    --font1: 'Bebas Neue', cursive;
+    --font2: 'idrod', cursive;
 }
 
 * {
